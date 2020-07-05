@@ -1,6 +1,6 @@
 class RouterComponents {
     homeComponent() {
-        return import('../views/Home.vue');
+        return import('../views/Login.vue');
     }
 }
 
